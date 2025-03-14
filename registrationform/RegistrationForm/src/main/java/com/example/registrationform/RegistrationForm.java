@@ -68,7 +68,7 @@ public class RegistrationForm {
         viewButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+                DatabaseConnection.connect();
             }
         });
         JPanel buttonPanel = new JPanel();
