@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.RegistrationForm (1).executor": "Run",
+    "Application.RegistrationForm (2).executor": "Run",
     "Application.RegistrationForm.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
