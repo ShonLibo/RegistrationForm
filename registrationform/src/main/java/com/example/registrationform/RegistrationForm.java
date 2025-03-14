@@ -2,6 +2,8 @@ package com.example.registrationform;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class RegistrationForm extends JFrame {
     private JTextField emailField, nameField, courseField;
@@ -33,7 +35,23 @@ public class RegistrationForm extends JFrame {
         add(new JLabel("Hobbies:"));
         hobbiesArea = new JTextArea();
         add(new JScrollPane(hobbiesArea));
+
+        // Database Connection Button
+        dbConnectionButton = new JButton("Establish DB Connection");
+        dbConnectionButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                DatabaseConnection.connect();
+            }
+        });
+        add(dbConnectionButton);
+
+        setVisible(true);
     }
 
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> new RegistrationForm());
+
+    }
 
 }
