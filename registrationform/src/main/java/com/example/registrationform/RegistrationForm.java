@@ -12,5 +12,28 @@ public class RegistrationForm extends JFrame {
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new GridLayout(5, 2));
+
+
+        // Email Field
+        add(new JLabel("Email:"));
+        emailField = new JTextField();
+        add(emailField);
+
+        // Name Field
+        add(new JLabel("Name:"));
+        nameField = new JTextField();
+        add(nameField);
+
+        // Course Field
+        add(new JLabel("Course:"));
+        courseField = new JTextField();
+        add(courseField);
+
+        // Hobbies Area
+        add(new JLabel("Hobbies:"));
+        hobbiesArea = new JTextArea();
+        add(new JScrollPane(hobbiesArea));
     }
+
+
 }
