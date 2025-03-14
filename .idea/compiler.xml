@@ -6,15 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-<<<<<<< Updated upstream
         <module name="registrationform" />
-=======
         <module name="databaseconnection" />
->>>>>>> Stashed changes
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="registrationform" target="23" />
-    </bytecodeTargetLevel>
   </component>
 </project>

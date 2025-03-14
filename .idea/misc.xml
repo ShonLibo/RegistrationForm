@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/registrationform/pom.xml" />
+        <option value="$PROJECT_DIR$/databaseconnection/pom.xml" />
       </list>
     </option>
   </component>
