@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdae6677-d914-4fa4-9b9d-091784a3b260" name="Changes" comment="#Test1 connect is successfully done" />
+    <list default="true" id="cdae6677-d914-4fa4-9b9d-091784a3b260" name="Changes" comment="#Test1 connect is successfully done">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/DatabaseConnection/target/classes/com/example/registrationform/RegistrationForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/DatabaseConnection/target/classes/com/example/registrationform/RegistrationForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/RegistrationForm/target/test-classes/com/example/registrationform/DatabaseConnectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/RegistrationForm/target/test-classes/com/example/registrationform/RegistrationFormTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/registrationform.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +42,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ShonLibo/RegistrationForm.git",
-    "accountId": "480ba9e0-468e-41b9-b661-bf13704b994f"
+    "accountId": "0aa178af-251c-44bd-a18d-a51bcea63faf"
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
@@ -54,6 +64,7 @@
   "keyToString": {
     "Application.RegistrationForm (1).executor": "Run",
     "Application.RegistrationForm (2).executor": "Run",
+    "Application.RegistrationForm .executor": "Run",
     "Application.RegistrationForm.executor": "Run",
     "JUnit.DatabaseConnectionTest.executor": "Run",
     "JUnit.RegistrationFormTest.executor": "Run",
@@ -78,10 +89,9 @@
       <recent name="com.example.registrationform" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DatabaseConnectionTest">
-    <configuration name="RegistrationForm (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RegistrationForm ">
+    <configuration name="RegistrationForm " type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.example.registrationform.RegistrationForm" />
-      <module name="RegistrationForm.Module" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.registrationform.*" />
@@ -149,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegistrationForm " />
         <item itemvalue="JUnit.DatabaseConnectionTest" />
         <item itemvalue="JUnit.RegistrationFormTest" />
         <item itemvalue="Application.RegistrationForm" />
         <item itemvalue="Application.RegistrationForm (2)" />
-        <item itemvalue="Application.RegistrationForm (1)" />
       </list>
     </recent_temporary>
   </component>

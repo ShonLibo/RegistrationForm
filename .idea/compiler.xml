@@ -12,7 +12,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="databaseconnection" target="23" />
-      <module name="registrationform" target="23" />
       <module name="RegistrationForm.Module" target="23" />
     </bytecodeTargetLevel>
   </component>
