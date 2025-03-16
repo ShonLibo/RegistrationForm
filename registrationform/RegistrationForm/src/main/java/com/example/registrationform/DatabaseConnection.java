@@ -1,8 +1,4 @@
-package com.example.databaseconnection;
-
-
-public class DatabaseConnection {
-}
+package com.example.registrationform;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -22,4 +18,3 @@ public class DatabaseConnection {
         }
     }
 }
-
