@@ -7,9 +7,9 @@ import javax.swing.JOptionPane;
 
 public class DatabaseConnection {
     public static void connect() {
-        String url = "jdbc:mysql://localhost:3306/yourdatabase";
-        String user = "yourusername";
-        String password = "yourpassword";
+        String url = "jdbc:mysql://localhost:3306/sample";
+        String user = "root";
+        String password = "";
 
         try (Connection conn = DriverManager.getConnection(url, user, password)) {
             JOptionPane.showMessageDialog(null, "Connected to the database successfully!");
