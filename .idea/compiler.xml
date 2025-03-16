@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="RegistrationForm (2)" />
-        <module name="RegistrationForm (1)" />
+
+        <module name="databaseconnection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="databaseconnection" target="23" />
-      <module name="RegistrationForm.Module" target="23" />
+      <module name="registrationform" target="23" />
+
     </bytecodeTargetLevel>
   </component>
 </project>
