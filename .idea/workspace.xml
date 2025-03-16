@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdae6677-d914-4fa4-9b9d-091784a3b260" name="Changes" comment="#Test1 connect is successfully done">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/registrationform/RegistrationForm/src/main/java/com/example/registrationform/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/registrationform/RegistrationForm/src/main/java/com/example/registrationform/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registrationform/RegistrationForm/target/classes/com/example/registrationform/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/registrationform/RegistrationForm/target/classes/com/example/registrationform/DatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationform/RegistrationForm/src/main/java/com/example/registrationform/RegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/registrationform/RegistrationForm/src/main/java/com/example/registrationform/RegistrationForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +35,12 @@
     &quot;assignee&quot;: &quot;SamsonNeyo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShonLibo/RegistrationForm.git",
-    "accountId": "0aa178af-251c-44bd-a18d-a51bcea63faf"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShonLibo/RegistrationForm.git&quot;,
+    &quot;accountId&quot;: &quot;0aa178af-251c-44bd-a18d-a51bcea63faf&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/registrationform/RegistrationForm/src/test/java/com/example/registrationform/DatabaseConnectionTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -54,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.RegistrationForm (1).executor": "Run",
-    "Application.RegistrationForm (2).executor": "Run",
-    "Application.RegistrationForm .executor": "Run",
-    "Application.RegistrationForm.executor": "Run",
-    "JUnit.DatabaseConnectionTest.executor": "Run",
-    "JUnit.RegistrationFormTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/SamsonNeyo/mysql-connector-java-8.0.18.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.27019498"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RegistrationForm (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistrationForm (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistrationForm .executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistrationForm.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseConnectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistrationFormTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SamsonNeyo/mysql-connector-java-8.0.18.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27019498&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />

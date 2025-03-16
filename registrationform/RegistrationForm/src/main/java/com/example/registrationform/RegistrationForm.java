@@ -63,16 +63,18 @@ public class RegistrationForm {
         formPanel.add(new JScrollPane(hobbiesTree));
 
 
-        // View button
-        JButton viewButton = new JButton("Establish DB Connection");
-        viewButton.addActionListener(new ActionListener() {
+        //Establishing DB Connection
+        JButton establishDB = new JButton("Establish DB Connection");
+        establishDB.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 DatabaseConnection.connect();
             }
         });
+
+
         JPanel buttonPanel = new JPanel();
-        buttonPanel.add(viewButton);
+        buttonPanel.add(establishDB);
 
         registrationFrame.add(formPanel, BorderLayout.CENTER);
         registrationFrame.add(buttonPanel, BorderLayout.SOUTH);
